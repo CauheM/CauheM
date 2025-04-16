@@ -1,3 +1,3 @@
 ## boas vindas ao meu perfil 🤙  
 
-![](https://tenor.com/pt-BR/view/rin-itoshi-itoshi-rin-despair-u20-blue-lock-gif-6315507289300146324)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB6ZXhxejNrZXVscWNtdm9qYnJvcXo1MWY2Y2RlbjJoZGhyZXJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hr2M0GvFzxmvb1GSmW/giphy.gif)
