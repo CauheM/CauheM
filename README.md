@@ -9,7 +9,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauheM&layout=compact&langs_count=16&theme=blueberry"
              />
      </a> 
-## CONTADOR DE VISITAS 
+
 </div>
  
 <div align="center"><br>
