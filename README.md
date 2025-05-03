@@ -8,4 +8,16 @@
         <img height="140em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauheM&layout=compact&langs_count=16&theme=blueberry"
              />
-     </a>
+     </a> 
+## CONTADOR DE VISITAS 
+</div>
+ 
+<div align="center"><br>
+  <h2>Contador de visitas</h2> 
+  
+  ![Visitor Count](https://profile-counter.glitch.me/CauheM/count.svg)
+ </div>
+
+<div align="center"><br>
+ 
+<br></div>
