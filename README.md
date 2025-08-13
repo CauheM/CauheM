@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>fazia natação<br>e sou 100 de OVR num mapa de basquete do roblox</p>(as provas estão no repositório ...)</p>
+<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>fazia natação<br>e jogo roblox</p>
 
 ###
 
@@ -60,6 +60,20 @@
      </a>
 </div>
 
-<h2 align="left"></h2>
+<h2 align="left">FALE COMIGO</h2>
+
+<div>
+<a href="mailto:cauhesanchesmatheus@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.tiktok.com/@darwin_grugru" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-9146FF?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/cauh%C3%AA-matheus-a3a985377/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>   
+</div>
+
+
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU1aHdzaTNwazFibWd0cWU4OTQ5Y2ozcWtwcWpzc3V4YXJhbWY3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1R3MJ739pcu3BVsqpN/giphy.gif)
