@@ -10,13 +10,9 @@
 
 ###
 
-<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>fazia natação<br>e sou 100 de OVR num mapa de basquete do roblox</p>
+<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>fazia natação<br>e sou 100 de OVR num mapa de basquete do roblox</p>(as provas estão no repositório ...)</p>
 
 ###
-
-<div align="left">
-  <img height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1eGZpdmU1enhwdmhmNDUwMmdnNnpmb3RxYTVkNHBreXY3dm4zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyLuuDoOX1480xM7Td/giphy.gif"  />
-</div>
 
 ###
 
