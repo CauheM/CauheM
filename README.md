@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>fazia natação<br>e jogo roblox</p>
+<p align="left">jogo need for speed heat<br>tenho conta da steam (meu nick eh: be_atirador_br)<br>tento fazer music<br>e jogo roblox 🙂</p>
 
 ###
 
