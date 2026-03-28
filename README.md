@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">N sou um cara que fala muito <br>gosto de ficar jogando <br>tento fazer music<br>
+<p align="left">Não sou um cara que fala muito <br>gosto de ficar jogando <br>tento fazer music<br>
 
 ###
 
