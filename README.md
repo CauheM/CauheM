@@ -72,7 +72,7 @@
 <a href="https://www.linkedin.com/in/cauh%C3%AA-matheus-a3a985377/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>   
-<a href="https://www.linkedin.com/in/cauh%C3%AA-matheus-a3a985377/" target="_blank">
+<a href="https://linktr.ee/Kirador" target="_blank">
   <img src="https://img.shields.io/badge/Mais_Informações-red?style=for-the-badge"/>
 </a>  
 </div>
