@@ -66,9 +66,6 @@
 <a href="mailto:cauhesanchesmatheus@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@kir4dor" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-9146FF?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/cauh%C3%AA-matheus-a3a985377/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>   
